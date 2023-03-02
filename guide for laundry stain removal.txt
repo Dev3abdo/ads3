@@ -1,0 +1,101 @@
+{
+    
+  "AppRedirect": {
+    "status": "off",
+    "redirect_link": "https://play.google.com/store/apps/details?id=com.esota.studio.among.makers"
+  },
+  
+  "AdsController": {
+      
+    "BannerNetwork"              : "",
+    "InterstitialNetwork"        : "",
+    "NativeNetwork"              : "",
+    
+    "IntervalClick"          : 1,
+    "AdMob_ID"               : "pub-xxxxxxxxxxxxxxx",
+    "AdMob_Banner"           : "",
+    "AdMob_InterstitialAd"   : "ca-app-pub-xxxxxxxxxxxxxxx/xxxxxxxxx",
+    "AdMob_Native"           : "ca-app-pub-xxxxxxxxxxxxxxx/xxxxxxxxxx",
+    
+    "Facebook_Banner"         : "xxxxxxxxxxxxxxx_xxxxxxxxxxxx",
+    "Facebook_InterstitialAd" : "xxxxxxxxxxxxxxx_xxxxxxxxxxx",
+    "Facebook_Native"         : "xxxxxxxxxxxxxxx_xxxxxxxxxxxx",
+    
+    "Applovin_Banner"         : "xxxxxxxxxxxxxxx",
+    "Applovin_InterstitialAd" : "xxxxxxxxxxxxxxx",
+    "Applovin_Native"         : "xxxxxxxxxxxxxxx"
+  },
+  
+ 
+  "MyList": [
+    {
+      "title": "Firmware Finder For Huawei About",
+      "image": "https://i0.wp.com/abuomar.ae/wp-content/uploads/Firmware-Finder-app-checking-android-version.png",
+      "native" : true,
+      "cpa_title" : "Download App",
+      "cpa_url"   : "https://virasport.blogspot.com/2023/02/firmware-finder-for-huawei.html?m=1",
+      "paragraph": [
+        "1- If you are looking for a firmware finder for your Huawei device, you can follow these steps: Go to the Huawei website and navigate to the 'Support' section. Choose your device model from the list provided and select the 'Downloads' or 'Support' option.",
+        "2- Look for the 'Firmware' or 'Software' section and download the latest firmware version available for your device. If you cannot find the firmware for your device, you can use a third-party firmware finder tool. One such tool is 'Firmware Finder for Huawei' by Team MT. You can download this tool from the Google Play Store. Once you have installed the firmware finder tool, launch the app and select your device model from the list provided.",
+        "3- The tool will then scan for the latest firmware available for your device and display it on the screen. If the firmware is available, click on the 'Download' button to start the download process. Once the firmware is downloaded, you can use the Huawei Update Extractor tool to extract the firmware files.",
+        "4- Connect your Huawei device to your computer and transfer the extracted firmware files to your device. Use the Huawei Firmware Finder app to install the firmware on your device. Note: It is important to note that firmware installation is a delicate process and can cause serious issues if done incorrectly. It is recommended to seek professional assistance if you are not familiar with the firmware installation process."
+      ]
+    },
+    {
+      "title": "Firmware Finder For Huawei Tips",
+      "image": "https://www.huaweiblog.de/wp-content/uploads/2018/02/Firmware-Finder-Tietelbild-680x350.jpg.webp",
+      "native" : true,
+      "cpa_title" : "Download App",
+      "cpa_url"   : "https://virasport.blogspot.com/2023/02/firmware-finder-for-huawei.html?m=1",
+       "paragraph": [
+        "1- Sure, here are some general tips that might be helpful: Always make sure you are downloading firmware from a reputable source to avoid downloading any malicious software. Before downloading and installing firmware, make sure you have the correct firmware for your device model and variant.",
+        "2- It's a good idea to backup all of your important data and files before installing firmware, as the process may result in data loss. Follow the installation instructions carefully and make sure you understand each step before proceeding. Do not interrupt the firmware installation process, as this can cause serious damage to your device.",
+        "3- If you encounter any issues during the firmware installation process, seek professional assistance or support from the manufacturer. Once the firmware is installed, make sure to test your device thoroughly to ensure everything is working correctly. Keep your firmware up-to-date to ensure the security and stability of your device.",
+        "4- If you are unsure about the firmware installation process or if it's necessary for your device, it's always a good idea to consult the manufacturer's support documentation or contact their customer support for guidance. Be patient and take your time during the firmware installation process to ensure everything is done correctly."
+      ]
+    },
+    {
+      "title": "Features",
+      "image": "https://huaweiflash.com/wp-content/uploads/2019/03/4.jpg",
+      "native" : true,
+      "cpa_title" : "Download App",
+      "cpa_url"   : "https://virasport.blogspot.com/2023/02/firmware-finder-for-huawei.html?m=1",
+      "paragraph": [
+        "1- As a language model, I don't have any specific features, but I can tell you some of the features that you might find in a firmware finder app or tool: Device compatibility: A firmware finder tool should be compatible with various Huawei devices and models to help users find the correct firmware for their device.",
+        "2- Firmware database: The tool should have an up-to-date database of firmware versions for Huawei devices, so users can find the latest firmware for their device. Automatic firmware detection: Some firmware finder tools can detect the device model and automatically recommend the latest firmware for that specific model.",
+        "3- Download manager: A download manager can help users to easily download the firmware files to their device. Firmware extraction: Some firmware finder tools also come with an extraction tool to help users extract the firmware files from the downloaded firmware package.",
+        "4- Installation guide: A good firmware finder tool should provide clear and concise installation instructions to guide users through the installation process. Support: It's important for a firmware finder tool to have a support system in place to help users with any issues they may encounter during the firmware installation process. This can be in the form of online resources, customer support, or community forums."
+      ]
+    
+        
+    },
+    {
+      "title": "How To Use Firmware Finder For Huawei",
+      "image": "https://huaweiflash.com/wp-content/uploads/2019/03/5-1.jpg",
+      "native" : true,
+      "cpa_title" : "Download App",
+      "cpa_url"   : "https://virasport.blogspot.com/2023/02/firmware-finder-for-huawei.html?m=1",
+      "paragraph": [
+        "1- The exact steps to use a firmware finder tool may vary depending on the specific tool you choose, but here are some general steps that might be helpful: Download and install the firmware finder tool on your computer or device. Launch the firmware finder tool and choose your Huawei device model from the list provided.",
+        "2- The tool will scan for the latest firmware available for your device and display it on the screen. If the firmware is available, click on the 'Download' button to start the download process. Once the firmware is downloaded, use the firmware extraction tool provided by the firmware finder tool to extract the firmware files.",
+        "3- Connect your Huawei device to your computer and transfer the extracted firmware files to your device. Follow the firmware installation guide provided by the firmware finder tool to install the firmware on your device. Once the installation is complete, restart your device and test it to ensure everything is working correctly.",
+        "4- It's important to note that the firmware installation process can be complex and should be done with care. If you're not confident in your ability to perform the installation process, it's recommended to seek professional assistance or support from the manufacturer."
+      ]
+        
+    },
+     {
+      "title": "Important Tips",
+      "image": "https://www.savagemessiahzine.com/alt__Y3M1LTEuNHBkYS50bw/9927541.png",
+      "native" : true,
+      "cpa_title" : "Download App",
+      "cpa_url"   : "https://virasport.blogspot.com/2023/02/firmware-finder-for-huawei.html?m=1",
+      "paragraph": [
+        "1- here are some important tips to keep in mind when using a firmware finder tool for Huawei devices: Use a reputable firmware finder tool to avoid downloading any malicious software. Before downloading and installing firmware, make sure you have the correct firmware for your device model and variant. Backup all of your important data and files before installing firmware, as the process may result in data loss.",
+        "2- Follow the firmware installation instructions carefully and make sure you understand each step before proceeding. Do not interrupt the firmware installation process, as this can cause serious damage to your device. If you encounter any issues during the firmware installation process, seek professional assistance or support from the manufacturer.",
+        "3- Keep your firmware up-to-date to ensure the security and stability of your device. Only download firmware from trusted sources and avoid downloading any unofficial firmware. Be patient and take your time during the firmware installation process to ensure everything is done correctly.",
+        "4- If you're not confident in your ability to perform the installation process, it's recommended to seek professional assistance or support from the manufacturer."
+      ]
+         
+     }
+  ]
+}
