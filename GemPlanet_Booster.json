@@ -7,9 +7,9 @@
   
   "AdsController": {
       
-    "BannerNetwork"              : "",
-    "InterstitialNetwork"        : "",
-    "NativeNetwork"              : "",
+    "BannerNetwork"              : "admob",
+    "InterstitialNetwork"        : "admob",
+    "NativeNetwork"              : "admob",
     
     "IntervalClick"          : 1,
     "AdMob_ID"               : "pub-xxxxxxxxxxxxxxx",
