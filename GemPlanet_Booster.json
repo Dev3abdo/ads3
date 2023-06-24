@@ -1,99 +1,130 @@
 {
-    
-  "AppRedirect": {
-    "status": "off",
-    "redirect_link": "https://play.google.com/store/apps/details?id=com.esota.studio.among.makers"
-  },
-  
-  "AdsController": {
-      
-    "BannerNetwork"              : "admob",
-    "InterstitialNetwork"        : "admob",
-    "NativeNetwork"              : "admob",
-    
-    "IntervalClick"          : 1,
-    "AdMob_ID"               : "pub-xxxxxxxxxxxxxxx",
-    "AdMob_Banner"           : "",
-    "AdMob_InterstitialAd"   : "ca-app-pub-xxxxxxxxxxxxxxx/xxxxxxxxx",
-    "AdMob_Native"           : "ca-app-pub-xxxxxxxxxxxxxxx/xxxxxxxxxx",
-    
-    "Facebook_Banner"         : "xxxxxxxxxxxxxxx_xxxxxxxxxxxx",
-    "Facebook_InterstitialAd" : "xxxxxxxxxxxxxxx_xxxxxxxxxxx",
-    "Facebook_Native"         : "xxxxxxxxxxxxxxx_xxxxxxxxxxxx",
-    
-    "Applovin_Banner"         : "xxxxxxxxxxxxxxx",
-    "Applovin_InterstitialAd" : "xxxxxxxxxxxxxxx",
-    "Applovin_Native"         : "xxxxxxxxxxxxxxx"
-  },
-  
+	
+  "ironsource_app_key": "xxxx",
+  "ironsource_banner_id": "xxxx",
+  "ironsource_interstitial_id": "xxxx",
+  "ironsource_rewarded_id": "xxxx",
  
-  "MyList": [
-    {
-      "title": "Guide 1",
-      "image": "",
-      "native" : true,
-      "cpa_title" : "Download App",
-      "cpa_url"   : "https://virasport.blogspot.com/",
-      "paragraph": [
-        "1- ",
-        "2- ",
-        "3- ",
-        "4- "
-      ]
-    },
-    {
-      "title": "Guide 2",
-      "image": "",
-      "native" : true,
-      "cpa_title" : "Download App",
-      "cpa_url"   : "https://virasport.blogspot.com/",
-      "paragraph": [
-        "1- ",
-        "2- ",
-        "3- ",
-        "4- "
-      ]
-    },
-    {
-      "title": "Guide 3",
-      "image": "",
-      "native" : true,
-      "cpa_title" : "Download App",
-      "cpa_url"   : "https://virasport.blogspot.com/",
-      "paragraph": [
-        "1- ",
-        "2- ",
-        "3- ",
-        "4- "
-      ] 
-    },
-    {
-      "title": "Guide 4",
-      "image": "",
-      "native" : true,
-      "cpa_title" : "Download App",
-      "cpa_url"   : "https://virasport.blogspot.com/",
-      "paragraph": [
-        "1- ",
-        "2- ",
-        "3- ",
-        "4- "
-      ]
-        
-    },
-     {
-      "title": "Guide 5",
-      "image": "",
-      "native" : true,
-      "cpa_title" : "Download App",
-      "cpa_url"   : "https://virasport.blogspot.com/",
-      "paragraph": [
-        "1- ",
-        "2- ",
-        "3- ",
-        "4- "
-      ]
-         
-     }
-  ]
+  "applovin_banner_id": "xxxx",
+  "applovin_interstitial_id": "xxxx",
+  "applovin_native_id": "xxxx",
+  "applovin_rewarded_id": "xxxx",
+  "max": true,
+  
+  "unity_banner_id": "xxxx",
+  "unity_interstitial_id": "xxxx",
+  "unity_rewarded_id": "xxxx",
+  "unity_app_id": "xxxx",
+  "is_unity_test_mode": true,
+  
+  "admob_banner": "xxxx",
+  "admob_interstitial": "xxxx",
+  "admob_native": "xxxx",
+  "admob_rewarded": "xxxx",
+  
+  "facebook_banner": "xxxx",
+  "facebook_interstitial": "xxxx",
+  "facebook_native": "xxxx",
+  "facebook_rewarded": "xxxx",
+  
+
+  "Interstitial": "xxxx",
+  "Banner": "xxxx",
+  "Native": "xxxx",
+  "Rewarded": "xxxx",
+  
+  
+  "clicks_to_show_inter": 1,
+  "native_rate": 2,
+  
+  "rating_exit_popup": true,
+  
+  "onesignal_id": "xxxxxxx",
+  
+  "app_suspended": false,
+  "suspended_title": "A new update for this app is available.",
+  "suspended_message": "Update this app because this version has some issues.",
+  "suspended_URL": "xxxx",
+
+
+  "guides": [
+	{
+	 "image": "xxxx",
+	 "title": "xxxx",
+	 "text": "xxxx",
+	 "text_two": "xxxx",
+
+	 "isLocked": false,
+	 "id": 1,
+	 	 
+	 "showBTN": true,
+	 "BtnURL": "https://www.youtube.com/watch?v=0nyjRMr0uvs",
+	 "BtnTXT": "Click Here"
+	},
+	{
+	 "image": "xxxx",
+	 "title": "xxxx",
+	 "text": "xxxx",
+	 "text_two": "xxxx",
+
+	 "isLocked": true,
+	 "id": 2,
+	 	 
+	 "showBTN": false,
+	 "BtnURL": "xxxx",
+	 "BtnTXT": "xxxx"
+	},
+	{
+	 "image": "xxxx",
+	 "title": "xxxx",
+	 "text": "xxxx",
+	 "text_two": "xxxx",
+
+	 "isLocked": false,
+	 "id": 3,
+	 
+	 "showBTN": true,
+	 "BtnURL": "https://www.youtube.com/watch?v=L6jkPoD4D0w",
+	 "BtnTXT": "Click"
+	},
+	{
+	"image": "xxxx",
+	 "title": "xxxx",
+	 "text": "xxxx",
+	 "text_two": "xxxx",
+
+	 "isLocked": false,
+	 "id": 4,
+
+	 "showBTN": false,
+	 "BtnURL": "xxxx",
+	 "BtnTXT": "xxxx"
+	},
+	{
+	"image": "xxxx",
+	 "title": "xxxx",
+	 "text": "xxxx",
+	 "text_two": "xxxx",
+
+	 "isLocked": false,
+	 "id": 5,
+
+	 "showBTN": false,
+	 "BtnURL": "xxxx",
+	 "BtnTXT": "xxxx"
+	},
+	{
+	"image": "xxxx",
+	 "title": "xxxx",
+	 "text": "xxxx",
+	 "text_two": "xxxx",
+
+	 "isLocked": false,
+	 "id": 6,
+
+	 "showBTN": false,
+	 "BtnURL": "xxxx",
+	 "BtnTXT": "xxxx"
+	}
+  ]  
 }
