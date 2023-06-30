@@ -49,23 +49,23 @@
 
   "guides": [
 	{
-	 "image": "xxxx",
-	 "title": "xxxx",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	 "image": "https://www.thenewsminute.com/sites/default/files/styles/news_detail/public/020.jpg?itok=FTMiDTLt",
+	 "title": "Uc Turbo About",
+	 "text": "UC Turbo is a popular web browser application developed by UCWeb, a subsidiary of Alibaba Group. It is designed for Android devices and aims to provide users with a fast and smooth browsing experience. Here are some key features and information about UC Turbo:  Turbo Mode: UC Turbo is known for its "Turbo Mode," which utilizes data compression technology to optimize webpage loading and reduce data usage. This feature helps to improve browsing speed, especially on slower internet connections.  Ad Blocker UC Turbo includes an integrated ad blocker that can block unwanted ads, pop-ups, and banners, resulting in a cleaner and less cluttered browsing experience.  Incognito Mode: Similar to other web browsers, UC Turbo offers an incognito mode that allows users to browse privately, without saving browsing history or cookies.  Download Manager: UC Turbo has a built-in download manager that enables users to download files more efficiently. It supports parallel downloads and allows users to pause, resume, or cancel downloads as needed.  Customizable Homepage: Users can customize their browser's homepage with various themes, wallpapers, and quick access shortcuts to their favorite websites, making it more personalized.",
+	 "text_two": "Night Mode: UC Turbo offers a night mode feature that adjusts the screen to reduce eye strain and improve readability in low-light conditions.  Gesture Controls: The browser supports gesture controls, allowing users to perform actions such as switching tabs, navigating back and forth, and refreshing pages with simple gestures.  Security Features: UC Turbo incorporates security features like safe browsing, warning users about potentially malicious websites or downloads.  It's important to note that as an AI, my knowledge cutoff is in September 2021. Therefore, there may have been updates or changes to UC Turbo since then. It's always a good idea to check the official UC Turbo website or the Google Play Store for the most up-to-date information and features.",
 
 	 "isLocked": false,
 	 "id": 1,
 	 	 
 	 "showBTN": true,
-	 "BtnURL": "https://www.youtube.com/watch?v=0nyjRMr0uvs",
+	 "BtnURL": "https://www.google.com/search?q=uc+turbo",
 	 "BtnTXT": "Click Here"
 	},
 	{
-	 "image": "xxxx",
-	 "title": "xxxx",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	 "image": "https://henrilechatnoir.com/wp-content/uploads/2019/12/UC-Browser-Turbo-1.8.6.900-Update-is-Now-Available-to-Download-with-Built-In-Image-Viewer-and-Background-Media-Player.jpg",
+	 "title": "How to Use",
+	 "text": "To use UC Turbo on your Android device, follow these general steps:  Installation: Visit the Google Play Store on your Android device and search for 'UC Turbo.' Tap on the UC Turbo app from the search results, then tap 'Install' to download and install the application.  Launching UC Turbo: Once the installation is complete, locate the UC Turbo icon on your home screen or in your app drawer and tap on it to launch the browser.  Browsing: Upon launching UC Turbo, you'll be greeted with the browser's interface. The main screen typically consists of the address bar at the top and a search bar below it. You can enter a website URL or search query directly into the address bar.  Navigation: To navigate to a specific webpage, type the URL of the website you want to visit into the address bar and tap the 'Go' or 'Enter' button on your device's keyboard. Alternatively, you can perform a search by typing your query into the search bar and tapping the search button.",
+	 "text_two": "Tabs: UC Turbo supports tabbed browsing, allowing you to have multiple web pages open simultaneously. To open a new tab, tap the '+' icon usually located near the top of the browser window. You can switch between tabs by tapping on their respective tabs at the top of the screen.  Settings and Customization: UC Turbo offers various settings and customization options. To access them, tap on the menu icon (usually represented by three vertical dots) located either at the top right or bottom right corner of the browser window. From there, you can explore settings related to privacy, appearance, downloads, ad blocking, and more.  Additional Features: UC Turbo offers additional features like Turbo Mode, Incognito Mode, Night Mode, and download management. You can access these features through the browser's menu or toolbar.  It's important to note that the user interface and specific features may vary depending on the version of UC Turbo and any updates that have been released since my knowledge cutoff in September 2021. For more detailed instructions or specific feature usage, you can refer to the official UC Turbo documentation or explore the in-app help and tutorials.",
 
 	 "isLocked": true,
 	 "id": 2,
@@ -75,23 +75,23 @@
 	 "BtnTXT": "xxxx"
 	},
 	{
-	 "image": "xxxx",
-	 "title": "xxxx",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	 "image": "https://images.hindustantimes.com/tech/rf/image_size_960x540/HT/p2/2020/03/14/Pictures/_6f6db9de-65d4-11ea-b9c4-de60b7b69f97.jpg",
+	 "title": "Features",
+	 "text": "Certainly! Here are some notable features of UC Turbo:  Fast and Smooth Browsing: UC Turbo is designed to provide a fast and smooth browsing experience. It uses optimization techniques and data compression to enhance webpage loading speed, even on slower internet connections.  Turbo Mode: The Turbo Mode feature in UC Turbo further boosts browsing speed by compressing data and reducing page size. This helps to minimize data usage and accelerate webpage loading.  Ad Blocker: UC Turbo includes an integrated ad blocker that blocks unwanted ads, pop-ups, and banners, resulting in a cleaner and more focused browsing experience.  Incognito Mode: UC Turbo offers an incognito mode that allows you to browse privately. In this mode, your browsing history, cookies, and form data are not saved.  Customizable Homepage: UC Turbo allows you to customize the browser's homepage with various themes, wallpapers, and quick access shortcuts to your favorite websites. This enables a personalized and convenient browsing experience.",
+	 "text_two": "Download Manager: The built-in download manager in UC Turbo lets you download files efficiently. You can manage downloads, pause or resume them, and even prioritize or schedule downloads as needed.  Night Mode: UC Turbo features a night mode that adjusts the screen's color temperature to reduce eye strain and improve readability in low-light environments.  Gesture Controls: UC Turbo supports gesture controls, enabling you to perform actions such as switching tabs, navigating back and forth, and refreshing pages with simple gestures.  Smart Searching: The browser's smart searching feature provides suggestions and predictive search results as you type, making it easier and faster to find information.  Security Features: UC Turbo incorporates security features like safe browsing, warning you about potentially malicious websites or downloads to help protect your online safety.  Please note that these features were accurate as of my knowledge cutoff in September 2021. Newer versions of UC Turbo might have introduced additional features or enhancements. It's recommended to check the official UC Turbo website or app store for the most up-to-date information on its features.  ",
 
 	 "isLocked": false,
 	 "id": 3,
 	 
 	 "showBTN": true,
-	 "BtnURL": "https://www.youtube.com/watch?v=L6jkPoD4D0w",
+	 "BtnURL": "https://www.google.com/search?q=uc+turbo",
 	 "BtnTXT": "Click"
 	},
 	{
-	"image": "xxxx",
-	 "title": "xxxx",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	"image": "https://th-i.thgim.com/public/brandhub/1dfpa7/article53372677.ece/alternates/FREE_385/smart-toolsjpg",
+	 "title": "Proper Use",
+	 "text": "To make the most of UC Turbo and use it effectively, here are some tips for proper use:  Keep the Browser Updated: Regularly update UC Turbo to ensure you have the latest features, bug fixes, and security enhancements. You can check for updates in the Google Play Store.  Customize Settings: Explore the browser's settings and customize them according to your preferences. Adjust options related to privacy, appearance, downloads, ad blocking, and other features to optimize your browsing experience.  Utilize Turbo Mode: Activate Turbo Mode when you're on a slower internet connection or want to optimize browsing speed. Turbo Mode compresses data and reduces page size, resulting in faster loading times and reduced data usage.  Enable Ad Blocking: Take advantage of the built-in ad blocker to enhance your browsing experience by blocking unwanted ads, pop-ups, and banners. This can make webpages cleaner and less cluttered.  Explore Incognito Mode: When you want to browse privately, use UC Turbo's incognito mode. It prevents your browsing history, cookies, and form data from being saved, offering a higher level of privacy.  ",
+	 "text_two": "Manage Downloads: Utilize the built-in download manager to efficiently handle your downloads. Pause, resume, prioritize, or schedule downloads as needed to optimize your file management.  Customize Homepage: Personalize the browser's homepage by selecting themes, wallpapers, and quick access shortcuts to your favorite websites. This can make your browsing experience more enjoyable and convenient.  Utilize Gesture Controls: Take advantage of UC Turbo's gesture controls to perform actions quickly. Learn the supported gestures for tasks such as switching tabs, navigating back and forth, and refreshing pages.  Use Night Mode: When browsing in low-light conditions, enable the night mode feature to reduce eye strain and improve readability. This adjusts the screen's color temperature for a more comfortable viewing experience.  Stay Aware of Security: While UC Turbo provides security features such as safe browsing, it's always important to exercise caution online. Be mindful of the websites you visit, avoid downloading files from untrusted sources, and keep your device's security software up to date.  Remember, these tips are general guidelines, and specific features or settings may vary based on the version of UC Turbo you are using. For detailed instructions and specific feature usage, refer to the app's documentation, in-app help, or the official UC Turbo website.  ",
 
 	 "isLocked": false,
 	 "id": 4,
@@ -101,10 +101,10 @@
 	 "BtnTXT": "xxxx"
 	},
 	{
-	"image": "xxxx",
-	 "title": "xxxx",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTclubHJ3am2ljIvlHdQOlzY6FYYJDRUxSAJNmO7ILz45xO6MCBWuOHCKxXLjo9j-gdR2g&usqp=CAU",
+	 "title": "More Tips",
+	 "text": "Certainly! Here are some additional tips to enhance your UC Turbo browsing experience:  Sync Bookmarks: If you use UC Turbo on multiple devices, consider syncing your bookmarks. This allows you to access your saved bookmarks across different devices, providing a seamless browsing experience.  Manage Tabs: If you frequently open multiple tabs, make use of tab management features to stay organized. Close tabs that you no longer need, bookmark important pages, or use tab groups to group related tabs together for easier navigation.  Explore Quick Actions: UC Turbo offers quick actions or shortcuts that provide easy access to commonly used features. For example, long-pressing the UC Turbo icon may reveal shortcuts like opening a new tab or incognito mode directly from your device's home screen.  Experiment with Add-ons and Extensions: UC Turbo supports add-ons and extensions that can enhance its functionality. Explore the available options and install any add-ons or extensions that cater to your specific needs, such as ad blockers, language translators, or productivity tools.  Clear Browsing Data: Over time, browsing data such as history, cookies, and cached files can accumulate and impact performance. Regularly clear your browsing data through the browser's settings to free up storage space and maintain optimal performance.",
+	 "text_two": "Enable Text Reflow: Text reflow is a feature that adjusts the text on a webpage to fit within the screen width. Enable this feature in the browser's settings to ensure a comfortable reading experience, especially when zooming in on text-heavy pages.  Use Reader Mode: For articles or blog posts with cluttered layouts, UC Turbo offers a reader mode that simplifies the page and presents the content in a clean, easy-to-read format. Look for the reader mode icon in the address bar when available.  Utilize Voice Search: UC Turbo supports voice search, allowing you to perform searches by speaking instead of typing. Tap the microphone icon in the search bar and speak your search query for hands-free browsing.  Explore Gesture Navigation: UC Turbo may offer gesture navigation options, allowing you to perform common actions with intuitive swipes or gestures. Check the browser's settings or documentation to see if gesture navigation is available and how to use it.  Provide Feedback: If you encounter any issues, have suggestions, or want to report bugs, consider providing feedback to the UC Turbo development team. They can use user feedback to improve the browser's performance and address any concerns.  Remember to regularly check for updates to UC Turbo to benefit from new features and improvements. Enjoy your browsing experience with UC Turbo!",
 
 	 "isLocked": false,
 	 "id": 5,
